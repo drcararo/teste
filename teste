@@ -1,0 +1,16 @@
+<html> 
+<head> 
+    <title> Aprenda a D3 em 5 minutos </ title> 
+</ head> 
+<body> 
+
+<h3> Hoje é um lindo dia !! </ h3> 
+
+<script src = 'https: // d3js. org / d3.v4.min.js '> </ script> 
+
+<script> 
+    d3.select (' h3 '). style (' cor ',' darkblue '); 
+    d3.select ('h3'). style ('tamanho da fonte', '24px'); 
+</ script>
+</ body> 
+</ html>
